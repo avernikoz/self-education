@@ -173,4 +173,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   
 - Tests:
   - [Антипаттерны тестирования ПО](https://habr.com/post/358178/#4)
+- Структуры данных
+  - [Структуры данных в js](https://habr.com/post/359192/)
+  - [Структуры данных в js 2](https://habr.com/company/netologyru/blog/334914/)
 
