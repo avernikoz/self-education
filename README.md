@@ -11,6 +11,17 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [HTML Dog](http://htmldog.com/)
   - [CodeAcademy](https://www.codecademy.com/)
   - [Подборка онлайн-школ](https://tproger.ru/digest/ways-to-learn-how-to-code/)
+  
+- MongoDB
+  - [MongoDB conditional sum](https://stackoverflow.com/questions/14102596/conditional-sum-in-mongodb)
+  - [MongoDB total count](https://stackoverflow.com/questions/20348093/mongodb-aggregation-how-to-get-total-records-count)
+  - [MongoDB return's old result](https://stackoverflow.com/questions/32811510/mongoose-findoneandupdate-doesnt-return-updated-document)
+  - [MongoDB aggregation intro](https://docs.mongodb.com/manual/tutorial/aggregation-with-user-preference-data/)
+  
+- Firebase
+  - [Firebase and Safari browser conflict](https://stackoverflow.com/questions/52917051/firebase-messaging-on-ios-web-browsers)
+  - [Firebase and Safari browser conflict 2](https://stackoverflow.com/questions/46071657/firebase-cloud-messaging-doesnt-work-on-chrome-ios)
+
 
 - Dictionaries  
   - [SidewaysDictionary](https://sidewaysdictionary.com/) - a dictionary, analogies are used instead of definitions
@@ -130,6 +141,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
  - INTERVIEW TIPS
   - [How to pay devs less](https://ebanoe.it/2016/12/08/how-to-pay-devs-less/)
   - [How to pay devs less 2](https://ebanoe.it/2017/02/09/how-to-oppress-developers/)
+  
 
 ## In Russian
 
