@@ -21,6 +21,9 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 - Firebase
   - [Firebase and Safari browser conflict](https://stackoverflow.com/questions/52917051/firebase-messaging-on-ios-web-browsers)
   - [Firebase and Safari browser conflict 2](https://stackoverflow.com/questions/46071657/firebase-cloud-messaging-doesnt-work-on-chrome-ios)
+  
+ Apollo sandboxes:
+  - [first](https://codesandbox.io/s/24nkjm76q0)
 
 
 - Dictionaries  
