@@ -87,7 +87,10 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
   - [Regex tutorial 2](https://www.rexegg.com/regex-lookarounds.html)
 
 - React.js
-  - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths)  
+  - [react-router specification](https://reacttraining.com/react-router/web/example/recursive-paths) 
+  
+- Good article about timezones in JS and at all
+  - [js timzones](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 
 - CANVAS
   - [Canvas - dive into HTML 5](http://diveintohtml5.info/canvas.html#text)
