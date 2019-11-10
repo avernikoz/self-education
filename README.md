@@ -115,6 +115,7 @@ I will be glad to accept your pull requests with must-see, must-read and must-kn
 
 - Apollo
   - [How to invalidate cached data in Apollo and handle updating paginated queries](https://medium.com/@martinseanhunt/how-to-invalidate-cached-data-in-apollo-and-handle-updating-paginated-queries-379e4b9e4698)
+  - [Apollo tracing](https://blog.apollographql.com/exposing-trace-data-for-your-graphql-server-with-apollo-tracing-97c5dd391385)
 
 - GraphQL
   - [GraphQL playground](https://developer.github.com/v4/explorer/)
